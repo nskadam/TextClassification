@@ -1,0 +1,128 @@
+Fitting 3 folds for each of 12 candidates, totalling 36 fits
+[CV] vect__ngram_range=(1, 1), tfidf__use_idf=True, clf__alpha=0.001 .
+[CV]  vect__ngram_range=(1, 1), tfidf__use_idf=True, clf__alpha=0.001, score=0.435489 -   6.8s
+[CV] vect__ngram_range=(1, 1), tfidf__use_idf=True, clf__alpha=0.001 .
+[CV]  vect__ngram_range=(1, 1), tfidf__use_idf=True, clf__alpha=0.001, score=0.458755 -   6.9s
+[CV] vect__ngram_range=(1, 1), tfidf__use_idf=True, clf__alpha=0.001 .
+[CV]  vect__ngram_range=(1, 1), tfidf__use_idf=True, clf__alpha=0.001, score=0.443742 -   6.7s
+[CV] vect__ngram_range=(1, 2), tfidf__use_idf=True, clf__alpha=0.001 .
+[CV]  vect__ngram_range=(1, 2), tfidf__use_idf=True, clf__alpha=0.001, score=0.540063 -  28.0s
+[CV] vect__ngram_range=(1, 2), tfidf__use_idf=True, clf__alpha=0.001 .
+[CV]  vect__ngram_range=(1, 2), tfidf__use_idf=True, clf__alpha=0.001, score=0.577118 -  33.6s
+[CV] vect__ngram_range=(1, 2), tfidf__use_idf=True, clf__alpha=0.001 .
+[CV]  vect__ngram_range=(1, 2), tfidf__use_idf=True, clf__alpha=0.001, score=0.535714 -  29.2s
+[CV] vect__ngram_range=(1, 1), tfidf__use_idf=False, clf__alpha=0.001 
+[CV]  vect__ngram_range=(1, 1), tfidf__use_idf=False, clf__alpha=0.001, score=0.043060 -   6.6s
+[CV] vect__ngram_range=(1, 1), tfidf__use_idf=False, clf__alpha=0.001 
+[CV]  vect__ngram_range=(1, 1), tfidf__use_idf=False, clf__alpha=0.001, score=0.044722 -   6.7s
+[CV] vect__ngram_range=(1, 1), tfidf__use_idf=False, clf__alpha=0.001 
+[CV]  vect__ngram_range=(1, 1), tfidf__use_idf=False, clf__alpha=0.001, score=0.045828 -   6.6s
+[CV] vect__ngram_range=(1, 2), tfidf__use_idf=False, clf__alpha=0.001 
+[CV]  vect__ngram_range=(1, 2), tfidf__use_idf=False, clf__alpha=0.001, score=0.046530 -  25.4s
+[CV] vect__ngram_range=(1, 2), tfidf__use_idf=False, clf__alpha=0.001 
+[CV]  vect__ngram_range=(1, 2), tfidf__use_idf=False, clf__alpha=0.001, score=0.048673 -  26.8s
+[CV] vect__ngram_range=(1, 2), tfidf__use_idf=False, clf__alpha=0.001 
+[CV]  vect__ngram_range=(1, 2), tfidf__use_idf=False, clf__alpha=0.001, score=0.050885 -  25.5s
+[CV] vect__ngram_range=(1, 1), tfidf__use_idf=True, clf__alpha=0.1 ...
+[CV]  vect__ngram_range=(1, 1), tfidf__use_idf=True, clf__alpha=0.1, score=0.042114 -   7.4s
+[CV] vect__ngram_range=(1, 1), tfidf__use_idf=True, clf__alpha=0.1 ...
+[CV]  vect__ngram_range=(1, 1), tfidf__use_idf=True, clf__alpha=0.1, score=0.042035 -   7.2s
+[CV] vect__ngram_range=(1, 1), tfidf__use_idf=True, clf__alpha=0.1 ...
+[CV]  vect__ngram_range=(1, 1), tfidf__use_idf=True, clf__alpha=0.1, score=0.042035 -   8.0s
+[CV] vect__ngram_range=(1, 2), tfidf__use_idf=True, clf__alpha=0.1 ...
+[CV]  vect__ngram_range=(1, 2), tfidf__use_idf=True, clf__alpha=0.1, score=0.042114 -  27.5s
+[CV] vect__ngram_range=(1, 2), tfidf__use_idf=True, clf__alpha=0.1 ...
+[CV]  vect__ngram_range=(1, 2), tfidf__use_idf=True, clf__alpha=0.1, score=0.042035 -  31.8s
+[CV] vect__ngram_range=(1, 2), tfidf__use_idf=True, clf__alpha=0.1 ...
+[CV]  vect__ngram_range=(1, 2), tfidf__use_idf=True, clf__alpha=0.1, score=0.042035 -  27.9s
+[CV] vect__ngram_range=(1, 1), tfidf__use_idf=False, clf__alpha=0.1 ..
+[CV]  vect__ngram_range=(1, 1), tfidf__use_idf=False, clf__alpha=0.1, score=0.096530 -   6.8s
+[CV] vect__ngram_range=(1, 1), tfidf__use_idf=False, clf__alpha=0.1 ..
+[CV]  vect__ngram_range=(1, 1), tfidf__use_idf=False, clf__alpha=0.1, score=0.083123 -   7.0s
+[CV] vect__ngram_range=(1, 1), tfidf__use_idf=False, clf__alpha=0.1 ..
+[CV]  vect__ngram_range=(1, 1), tfidf__use_idf=False, clf__alpha=0.1, score=0.094975 -   6.9s
+[CV] vect__ngram_range=(1, 2), tfidf__use_idf=False, clf__alpha=0.1 ..
+[CV]  vect__ngram_range=(1, 2), tfidf__use_idf=False, clf__alpha=0.1, score=0.088328 -  25.7s
+[CV] vect__ngram_range=(1, 2), tfidf__use_idf=False, clf__alpha=0.1 ..
+[CV]  vect__ngram_range=(1, 2), tfidf__use_idf=False, clf__alpha=0.1, score=0.071113 -  26.7s
+[CV] vect__ngram_range=(1, 2), tfidf__use_idf=False, clf__alpha=0.1 ..
+[CV]  vect__ngram_range=(1, 2), tfidf__use_idf=False, clf__alpha=0.1, score=0.085019 -  25.9s
+[CV] vect__ngram_range=(1, 1), tfidf__use_idf=True, clf__alpha=10 ....
+[CV]  vect__ngram_range=(1, 1), tfidf__use_idf=True, clf__alpha=10, score=0.042114 -   7.4s
+[CV] vect__ngram_range=(1, 1), tfidf__use_idf=True, clf__alpha=10 ....
+[CV]  vect__ngram_range=(1, 1), tfidf__use_idf=True, clf__alpha=10, score=0.042035 -   7.4s
+[CV] vect__ngram_range=(1, 1), tfidf__use_idf=True, clf__alpha=10 ....
+[CV]  vect__ngram_range=(1, 1), tfidf__use_idf=True, clf__alpha=10, score=0.042035 -   7.4s
+[CV] vect__ngram_range=(1, 2), tfidf__use_idf=True, clf__alpha=10 ....
+[CV]  vect__ngram_range=(1, 2), tfidf__use_idf=True, clf__alpha=10, score=0.042114 -  28.2s
+[CV] vect__ngram_range=(1, 2), tfidf__use_idf=True, clf__alpha=10 ....
+[CV]  vect__ngram_range=(1, 2), tfidf__use_idf=True, clf__alpha=10, score=0.042035 -  29.3s
+[CV] vect__ngram_range=(1, 2), tfidf__use_idf=True, clf__alpha=10 ....
+[CV]  vect__ngram_range=(1, 2), tfidf__use_idf=True, clf__alpha=10, score=0.042035 -  28.4s
+[CV] vect__ngram_range=(1, 1), tfidf__use_idf=False, clf__alpha=10 ...
+[CV]  vect__ngram_range=(1, 1), tfidf__use_idf=False, clf__alpha=10, score=0.042114 -   7.3s
+[CV] vect__ngram_range=(1, 1), tfidf__use_idf=False, clf__alpha=10 ...
+[CV]  vect__ngram_range=(1, 1), tfidf__use_idf=False, clf__alpha=10, score=0.042035 -   7.3s
+[CV] vect__ngram_range=(1, 1), tfidf__use_idf=False, clf__alpha=10 ...
+[CV]  vect__ngram_range=(1, 1), tfidf__use_idf=False, clf__alpha=10, score=0.042035 -   7.4s
+[CV] vect__ngram_range=(1, 2), tfidf__use_idf=False, clf__alpha=10 ...
+[CV]  vect__ngram_range=(1, 2), tfidf__use_idf=False, clf__alpha=10, score=0.042114 -  29.1s
+[CV] vect__ngram_range=(1, 2), tfidf__use_idf=False, clf__alpha=10 ...
+[CV]  vect__ngram_range=(1, 2), tfidf__use_idf=False, clf__alpha=10, score=0.042035 -  31.0s
+[CV] vect__ngram_range=(1, 2), tfidf__use_idf=False, clf__alpha=10 ...
+[CV]  vect__ngram_range=(1, 2), tfidf__use_idf=False, clf__alpha=10, score=0.042035 -  28.1s
+0.735997052011
+
+clf__alpha: 0.001
+tfidf__use_idf: True
+vect__ngram_range: (1, 2)
+Fitting 3 folds for each of 1 candidates, totalling 3 fits
+[CV] vect__ngram_range=(1, 2), tfidf__use_idf=True ...................
+Fitting 3 folds for each of 1 candidates, totalling 3 fits
+[CV] vect__ngram_range=(1, 2), tfidf__use_idf=True ...................
+Fitting 5 folds for each of 1 candidates, totalling 5 fits
+[CV] vect__ngram_range=(1, 2), tfidf__use_idf=True ...................
+[CV]  vect__ngram_range=(1, 2), tfidf__use_idf=True, score=0.897245 -  33.0s
+[CV] vect__ngram_range=(1, 2), tfidf__use_idf=True ...................
+[CV]  vect__ngram_range=(1, 2), tfidf__use_idf=True, score=0.904074 -  33.1s
+[CV] vect__ngram_range=(1, 2), tfidf__use_idf=True ...................
+[CV]  vect__ngram_range=(1, 2), tfidf__use_idf=True, score=0.899079 -  32.2s
+[CV] vect__ngram_range=(1, 2), tfidf__use_idf=True ...................
+[CV]  vect__ngram_range=(1, 2), tfidf__use_idf=True, score=0.913445 -  32.4s
+[CV] vect__ngram_range=(1, 2), tfidf__use_idf=True ...................
+[CV]  vect__ngram_range=(1, 2), tfidf__use_idf=True, score=0.911972 -  32.6s
+Fitting 10 folds for each of 1 candidates, totalling 10 fits
+[CV] vect__ngram_range=(1, 2), tfidf__use_idf=True ...................
+[CV]  vect__ngram_range=(1, 2), tfidf__use_idf=True, score=0.902609 -  37.8s
+[CV] vect__ngram_range=(1, 2), tfidf__use_idf=True ...................
+[CV]  vect__ngram_range=(1, 2), tfidf__use_idf=True, score=0.899738 -  38.4s
+[CV] vect__ngram_range=(1, 2), tfidf__use_idf=True ...................
+[CV]  vect__ngram_range=(1, 2), tfidf__use_idf=True, score=0.904720 -  38.8s
+[CV] vect__ngram_range=(1, 2), tfidf__use_idf=True ...................
+[CV]  vect__ngram_range=(1, 2), tfidf__use_idf=True, score=0.910761 -  38.7s
+[CV] vect__ngram_range=(1, 2), tfidf__use_idf=True ...................
+[CV]  vect__ngram_range=(1, 2), tfidf__use_idf=True, score=0.895706 -  38.5s
+[CV] vect__ngram_range=(1, 2), tfidf__use_idf=True ...................
+[CV]  vect__ngram_range=(1, 2), tfidf__use_idf=True, score=0.908531 -  38.3s
+[CV] vect__ngram_range=(1, 2), tfidf__use_idf=True ...................
+[CV]  vect__ngram_range=(1, 2), tfidf__use_idf=True, score=0.906690 -  38.7s
+[CV] vect__ngram_range=(1, 2), tfidf__use_idf=True ...................
+[CV]  vect__ngram_range=(1, 2), tfidf__use_idf=True, score=0.931278 -  38.1s
+[CV] vect__ngram_range=(1, 2), tfidf__use_idf=True ...................
+[CV]  vect__ngram_range=(1, 2), tfidf__use_idf=True, score=0.931156 -  38.3s
+[CV] vect__ngram_range=(1, 2), tfidf__use_idf=True ...................
+[CV]  vect__ngram_range=(1, 2), tfidf__use_idf=True, score=0.910698 -  38.9s
+             precision    recall  f1-score   support
+
+          0       0.64      0.80      0.71       254
+          1       0.80      0.63      0.71       316
+
+avg / total       0.73      0.71      0.71       570
+
+             precision    recall  f1-score   support
+
+          0       0.63      0.80      0.70       250
+          1       0.80      0.63      0.70       320
+
+avg / total       0.72      0.70      0.70       570
+
